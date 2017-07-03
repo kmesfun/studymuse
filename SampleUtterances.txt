@@ -1,0 +1,94 @@
+FlashCardIntent Can I look through my flash cards
+FlashCardIntent go to flash cards
+FlashCardIntent go to my flash cards
+FlashCardIntent flash cards
+FlashCardIntent flashcards
+FlashCardIntent the deck is {eye|Deck}
+FlashCardIntent the deck is {give it a few words for this one|Deck}
+FlashCardIntent deck is {eye|Deck}
+FlashCardIntent deck is {give it a few words for this one|Deck}
+FlashCardIntent my deck is {eye|Deck}
+FlashCardIntent my deck is {give it a few words for this one|Deck}
+FlashCardIntent the name of this deck is {eye|Deck}
+FlashCardIntent the name of this deck is {give it a few words for this one|Deck}
+FlashCardIntent {FlashCardState}
+FlashCardIntent {FlashCardState} card
+FlashCardIntent {FlashCardState} to cards
+FlashCardIntent {FlashCardState} term
+FlashCardIntent my term is {mitosis|Term}
+FlashCardIntent my term is {mitosis blah blah blah blah writing a lot of words just in case|Term}
+FlashCardIntent the term is {case|Term}
+FlashCardIntent the term is {mitosis blah blah blah blah writing a lot of words just in case|Term}
+FlashCardIntent set term to {mitosis|Term}
+FlashCardIntent set term to {mitosis blah blah blah blah writing a lot of words just in case|Term}
+FlashCardIntent set definition to {one|Definition}
+FlashCardIntent set definition to {def of some the terms aflets distributed at locations Should have high level of effort in brochure as well Brochure presents information in a unique|Definition}
+FlashCardIntent the definition is {def|Definition}
+FlashCardIntent the definition is {def of some the terms aflets distributed at locations Should have high level of effort in brochure as well Brochure presents information in a unique|Definition}
+FlashCardIntent definition is {def|Definition}
+FlashCardIntent definition is {def of some the terms aflets distributed at locations Should have high level of effort in brochure as well Brochure presents information in a unique|Definition}
+FlashCardIntent the answer is {def|Answer}
+FlashCardIntent the answer is {def of some the terms aflets distributed at locations Should have high level of effort in brochure as well Brochure presents information in a unique|Answer}
+FlashCardIntent answer is {def|Answer}
+FlashCardIntent answer is {def of some the terms aflets distributed at locations Should have high level of effort in brochure as well Brochure presents information in a unique|Answer}
+PlannerIntent planner
+PlannerIntent open my to do list
+PlannerIntent go to my to do list
+PlannerIntent go to my planner
+PlannerIntent open my planner
+PlannerIntent open planner
+PlannerIntent {PlannerState} to pending assignments
+PlannerIntent {PlannerState} to my assignments
+PlannerIntent {PlannerState} to assignments
+PlannerIntent {PlannerState} assignment
+PlannerIntent {PlannerState} an assignment
+PlannerIntent set name to {midterm|AssignmentName}
+PlannerIntent set name to {just a few more words maybe a few more|AssignmentName}
+PlannerIntent Set date to {Date}
+PlannerIntent Set subject to {Subject}
+PlannerIntent Set details to {study|Details}
+PlannerIntent Set details to {test will be in class|Details}
+PlannerIntent Set details to {def of some the terms aflets distributed at locations Should have high level of effort in brochure as well Brochure presents information in a unique|Details}
+PlannerIntent The details are {def|Details}
+PlannerIntent The details are {def of some the terms aflets distributed at locations Should have high level of effort in brochure as well Brochure presents information in a unique|Details}
+PlannerIntent details are {def|Details}
+PlannerIntent details are {def of some the terms aflets distributed at locations Should have high level of effort in brochure as well Brochure presents information in a unique|Details}
+PlannerIntent The details are the following {def|Details}
+PlannerIntent The details are the following {def of some the terms aflets distributed at locations Should have high level of effort in brochure as well Brochure presents information in a unique|Details}
+PlannerIntent The name is {def|AssignmentName}
+PlannerIntent The name is {def of some the terms aflets distributed at locations Should have high level of effort in brochure as well Brochure presents information in a unique|AssignmentName}
+PlannerIntent name is {def|AssignmentName}
+PlannerIntent name is {def of some the terms aflets distributed at locations Should have high level of effort in brochure as well Brochure presents information in a unique|AssignmentName}
+PlannerIntent {Date}
+PlannerIntent The date is {Date}
+PlannerIntent date is {Date}
+PlannerIntent {Date} is the date
+PlannerIntent The subject is {Subject}
+PlannerIntent subject is {Subject}
+PlannerIntent {Subject} is the subject
+LecturesIntent lectures
+LecturesIntent go to lectures
+LecturesIntent go to my lectures
+LecturesIntent {Lecture}
+LecturesIntent Ready
+AMAZON.YesIntent Yes
+AMAZON.YesIntent Ya
+AMAZON.YesIntent Sure
+AMAZON.YesIntent Ok
+AMAZON.NoIntent No
+AMAZON.NoIntent Nope
+AMAZON.NoIntent Nah
+AMAZON.HelpIntent what can i say
+AMAZON.HelpIntent help
+AMAZON.HelpIntent i need help
+AMAZON.HelpIntent what can i do
+AMAZON.HelpIntent don't know
+AMAZON.HelpIntent i don't know
+AMAZON.HelpIntent i don't know what to do
+AMAZON.StopIntent stop
+AMAZON.StopIntent quit
+AMAZON.StopIntent done
+AMAZON.StopIntent i'm done
+AMAZON.StopIntent im done
+AMAZON.StopIntent i am done
+AMAZON.StopIntent exit

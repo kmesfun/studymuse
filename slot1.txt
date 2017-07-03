@@ -1,0 +1,23 @@
+LIST_OF_SUBJECTS
+math
+mathematics
+english
+linguistics
+computer science
+electrical engineering
+cognitive science
+biology
+chemistry
+physics
+spanish
+japanese
+chinese
+social welfare
+sociology
+philosophy
+history
+astronomy
+astrology
+environmental science
+economics
+business

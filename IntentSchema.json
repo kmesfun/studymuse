@@ -1,0 +1,78 @@
+{
+  "intents": [
+    {
+      "intent": "FlashCardIntent",
+       "slots": [
+        {
+          "name": "Deck",
+          "type": "AMAZON.LITERAL"
+        },
+        {
+          "name": "Term",
+          "type": "AMAZON.LITERAL"
+        },
+        {
+          "name": "Definition",
+          "type": "AMAZON.LITERAL"
+        },
+        {
+          "name": "FlashCardState",
+          "type": "LIST_OF_FLASHCARD_STATES"
+        },
+        {
+          "name": "Answer",
+          "type": "AMAZON.LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "PlannerIntent",
+      "slots": [
+        {
+          "name": "Details",
+          "type": "AMAZON.LITERAL"
+        },
+        {
+          "name": "Date",
+          "type": "AMAZON.DATE"
+        },
+        {
+          "name": "Subject",
+          "type": "LIST_OF_SUBJECTS"
+        },
+        {
+          "name": "PlannerState",
+          "type": "LIST_OF_PLANNER_STATES"
+        },
+        {
+          "name": "AssignmentName",
+          "type": "AMAZON.LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "LecturesIntent",
+      "slots": [
+        {
+          "name": "Lecture",
+          "type": "LIST_OF_LECTURES"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.YesIntent"
+    },
+    {
+      "intent": "AMAZON.NoIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+LIST_OF_LECTURES
+computer science lecture
+sociology lecture
+business lecture

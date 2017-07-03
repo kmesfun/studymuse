@@ -1,0 +1,11 @@
+LIST_OF_FLASHCARD_STATES
+create
+add
+modify
+edit
+delete
+remove
+listen
+hear
+quiz
+test

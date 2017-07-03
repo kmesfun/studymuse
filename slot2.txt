@@ -1,0 +1,9 @@
+LIST_OF_PLANNER_STATES
+create
+add
+modify
+edit
+delete
+remove
+listen
+hear
