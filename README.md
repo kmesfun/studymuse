@@ -1,1 +1,1 @@
-# studymuse
+Details in pdf
